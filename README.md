@@ -38,7 +38,6 @@ Transformo ideas en productos digitales reales con foco en negocio, experiencia 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" width="40" style="background:#fff; padding:5px; border-radius:6px;" /> style="background:#fff;padding:6px;border-radius:6px;" />
 </p>
 
 ---

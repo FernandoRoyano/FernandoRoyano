@@ -55,16 +55,6 @@ Transformo ideas en productos digitales reales con foco en negocio, experiencia 
 
 ---
 
-### 🎨 Herramientas Creativas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" width="40" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Adobe-Premiere-Pro.svg" width="40" style="background:#fff; padding:5px; border-radius:6px;" /> width="40" style="background:#fff;padding:6px;border-radius:6px;" />
- <img src="https://seeklogo.com/images/C/capcut-logo-29B2D799E2-seeklogo.com.png" width="40" style="background:#fff; padding:5px; border-radius:6px;" />style="background:#fff;padding:6px;border-radius:6px;" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Wondershare_Filmora_2022_Logo.svg" width="40" style="background:#fff; padding:5px; border-radius:6px;" />width="40" style="background:#fff;padding:6px;border-radius:6px;" />
-</p>
-
----
 
 ### 🧩 Mi portfolio
 
